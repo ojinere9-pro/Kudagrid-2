@@ -1,0 +1,6 @@
+{
+  "name": "KudiGrid",
+  "description": "Premium 3D luxury mobile fintech experience with instant upgrades, real-time balance tracking, and sleek bronze-accented controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

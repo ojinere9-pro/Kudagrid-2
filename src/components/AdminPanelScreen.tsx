@@ -54,7 +54,7 @@ interface TaskSubmission {
   timestamp: string;
   status: string;
   screenshotName?: string;
-  screenshot?: string; // Base64 data URL
+  screenshot?: string; // Firebase Storage download URL
 }
 
 export default function AdminPanelScreen({ onBack, currentAdminUsername }: AdminPanelScreenProps) {
